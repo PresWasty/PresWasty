@@ -1,0 +1,33 @@
+/* Index */
+.WastyP{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Product */
+.productP1{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.productP2{
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+}
+
+.listImgP{
+
+}
+
+.imgP1{
+    border: 1px solid black;
+    border-radius: 15px;
+    margin-right: 10%;
+}
+.imgP2{
+    border: 1px solid black;
+    border-radius: 15px;
+    margin-left: 10%;
+}
