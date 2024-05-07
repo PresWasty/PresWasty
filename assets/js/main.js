@@ -46,7 +46,7 @@
 			$(
 				'<div id="titleBar">' +
 					'<a href="#navPanel" class="toggle"></a>' +
-					'<span class="title">' + $('#logo').html() + '</span>' +
+					'<span class="title"><img src="./images/wastyLogoMobile.png" style="margin-top:1%;"></span>' +
 				'</div>'
 			)
 				.appendTo($body);
